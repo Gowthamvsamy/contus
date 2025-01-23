@@ -1,0 +1,42 @@
+<svg id="Component_62_3" data-name="Component 62 – 3" xmlns="http://www.w3.org/2000/svg" width="78" height="78" viewBox="0 0 78 78">
+  <g id="Ellipse_472" data-name="Ellipse 472" transform="translate(1 1.184)" fill="#fecd2a" stroke="#fecd2a" stroke-width="1">
+    <circle cx="5" cy="5" r="5" stroke="none"/>
+    <circle cx="5" cy="5" r="4.5" fill="none"/>
+  </g>
+  <g id="Ellipse_473" data-name="Ellipse 473" transform="translate(35 1.184)" fill="#fecd2a" stroke="#fecd2a" stroke-width="1">
+    <circle cx="5" cy="5" r="5" stroke="none"/>
+    <circle cx="5" cy="5" r="4.5" fill="none"/>
+  </g>
+  <g id="Ellipse_474" data-name="Ellipse 474" transform="translate(67 1.184)" fill="#fecd2a" stroke="#fecd2a" stroke-width="1">
+    <circle cx="5" cy="5" r="5" stroke="none"/>
+    <circle cx="5" cy="5" r="4.5" fill="none"/>
+  </g>
+  <g id="Ellipse_475" data-name="Ellipse 475" transform="translate(67 35.184)" fill="#fecd2a" stroke="#fecd2a" stroke-width="1">
+    <circle cx="5" cy="5" r="5" stroke="none"/>
+    <circle cx="5" cy="5" r="4.5" fill="none"/>
+  </g>
+  <g id="Ellipse_476" data-name="Ellipse 476" transform="translate(66 67.184)" fill="#fecd2a" stroke="#fecd2a" stroke-width="1">
+    <circle cx="5" cy="5" r="5" stroke="none"/>
+    <circle cx="5" cy="5" r="4.5" fill="none"/>
+  </g>
+  <g id="Ellipse_477" data-name="Ellipse 477" transform="translate(35 67.184)" fill="#fecd2a" stroke="#fecd2a" stroke-width="1">
+    <circle cx="5" cy="5" r="5" stroke="none"/>
+    <circle cx="5" cy="5" r="4.5" fill="none"/>
+  </g>
+  <g id="Ellipse_478" data-name="Ellipse 478" transform="translate(1 66.184)" fill="#fecd2a" stroke="#fecd2a" stroke-width="1">
+    <circle cx="5" cy="5" r="5" stroke="none"/>
+    <circle cx="5" cy="5" r="4.5" fill="none"/>
+  </g>
+  <g id="Ellipse_479" data-name="Ellipse 479" transform="translate(2 34.184)" fill="#fecd2a" stroke="#fecd2a" stroke-width="1">
+    <circle cx="5" cy="5" r="5" stroke="none"/>
+    <circle cx="5" cy="5" r="4.5" fill="none"/>
+  </g>
+  <circle id="Ellipse_471" data-name="Ellipse 471" cx="19.5" cy="19.5" r="19.5" transform="translate(20 19.184)" fill="#fff"/>
+  <g id="digital" transform="translate(-0.97 -0.97)">
+    <path id="Path_107769" data-name="Path 107769" d="M55.918,25.8l13.27-13.27a6.3,6.3,0,1,0-1.777-1.777l-13.27,13.27a21.241,21.241,0,0,0-12.914-5.354V13.451a6.284,6.284,0,1,0-2.514,0v5.218A21.241,21.241,0,0,0,25.8,24.023L12.529,10.752a6.3,6.3,0,1,0-1.777,1.777L24.022,25.8a21.241,21.241,0,0,0-5.354,12.914H13.451a6.284,6.284,0,1,0,0,2.514h5.218a21.241,21.241,0,0,0,5.354,12.914L10.752,67.411a6.3,6.3,0,1,0,1.777,1.777L25.8,55.918a21.241,21.241,0,0,0,12.914,5.354V66.49a6.284,6.284,0,1,0,2.514,0V61.272a21.241,21.241,0,0,0,12.914-5.354l13.27,13.27a6.3,6.3,0,1,0,1.777-1.777l-13.27-13.27a21.241,21.241,0,0,0,5.354-12.914H66.49a6.284,6.284,0,1,0,0-2.514H61.272A21.241,21.241,0,0,0,55.918,25.8ZM7.292,43.741a3.771,3.771,0,1,1,3.771-3.771A3.771,3.771,0,0,1,7.292,43.741ZM72.648,36.2a3.771,3.771,0,1,1-3.771,3.771A3.771,3.771,0,0,1,72.648,36.2Zm0-32.678a3.771,3.771,0,1,1-3.771,3.771A3.771,3.771,0,0,1,72.648,3.521ZM36.2,7.292a3.771,3.771,0,1,1,3.771,3.771A3.771,3.771,0,0,1,36.2,7.292ZM7.292,11.062a3.771,3.771,0,1,1,3.771-3.771A3.771,3.771,0,0,1,7.292,11.062Zm0,65.356a3.771,3.771,0,1,1,3.771-3.771A3.771,3.771,0,0,1,7.292,76.419Zm36.449-3.771a3.771,3.771,0,1,1-3.771-3.771A3.771,3.771,0,0,1,43.741,72.648Zm28.908-3.771a3.771,3.771,0,1,1-3.771,3.771A3.771,3.771,0,0,1,72.648,68.878ZM39.97,58.823A18.853,18.853,0,1,1,58.823,39.97,18.853,18.853,0,0,1,39.97,58.823Z" transform="translate(0 0)"/>
+    <g id="Group_101220" data-name="Group 101220">
+      <path id="Path_107876" data-name="Path 107876" d="M31.5,33.27l8.74-3.209,4.719,1.7,5.276,1.905V45.547l-10.579,3.66-11.02-3.4L28.9,34.418Z" fill="#14cca6"/>
+      <path id="Path_107770" data-name="Path 107770" d="M46.277,26.835,34.966,23.064a1.257,1.257,0,0,0-.794,0L22.86,26.835A1.257,1.257,0,0,0,22,28.027V40.6a1.257,1.257,0,0,0,.86,1.193l11.312,3.771a1.257,1.257,0,0,0,.794,0l11.312-3.771a1.257,1.257,0,0,0,.86-1.193V28.027a1.257,1.257,0,0,0-.86-1.193ZM34.568,25.578l7.337,2.45-7.337,2.446-7.337-2.446Zm-10.055,4.19,8.8,2.932v9.918l-8.8-2.932Zm11.312,12.85V32.7l8.8-2.932V39.69Z" transform="translate(5.402 5.658)"/>
+    </g>
+  </g>
+</svg>
